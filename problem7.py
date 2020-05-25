@@ -35,6 +35,5 @@ for i in range(99, -1, -1):
   for k in range(0, i+1):
     temploop[k] = (temploop[k] + tempdata[k])
   if i ==0:
-    print(temploop[0])
+    print("The max is this number ",temploop[0])
     break
-  print(temploop[0:i])
