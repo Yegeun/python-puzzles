@@ -1,7 +1,7 @@
 '''
 Estimate Pi, given to random variables from 0 to 1
 '''
-from random import random
+import random
 
 
 def est_pi(n):
@@ -15,3 +15,5 @@ def est_pi(n):
       point_circle += 1
     total_point += 1
   return 4 * point_circle / total_point
+
+print(est_pi(100))
