@@ -1,6 +1,6 @@
 ### Problem 1	
 Find the sum of all the multiples of 3 or 5 below 1000.
-#### Problem 2	
+### Problem 2	
 By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
 ### Problem 3	
 A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
