@@ -1,6 +1,6 @@
 # Python 
 
-Hello name is Yegeun and this is a folder of some of the problem I found interesting and weird quirks I have found with Python. This is more documentation for myself.
+Hello name is Yegeun, this folder are some of the problems quirks I have found with Python. This is more of a documentation for myself.
 
 ### Problem 1	
 Find the sum of all the multiples of 3 or 5 below 1000.
